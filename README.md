@@ -11,7 +11,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### Примеры работ: https://mydiplomeviktor5211.nomoredomains.rocks
+                   https://github.com/Velnene/react-mesto-api-full-gha
 
 ### Контакты:
 ### 📧 Почта: viktor.hidirov@yandex.ru
 ### 🌐 Telegram: https://t.me/ViktorKhiditov
+### VK Вконтакте: https://vk.com/id487473573
